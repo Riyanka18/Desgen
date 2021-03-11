@@ -59,4 +59,23 @@ This application will help in planning their daily activities like
 
 
 
+## idea-3
 
+## Name
+
+Riyanka Chakraborty 
+
+### Description .
+
+This is an Idea for Application Named "Climate Tracker".
+This app will allow us to monitor weather and climate changes like temperature, humidity, windspeed, carbon monoxide levels in air using sensor or web data and will also keep us 
+imformed about carbon footprints.
+ 
+### Features
+1. Login/Signup Page 
+2. user details and location page
+3. Dashboard for various weather related data
+4. carbon footprint page
+5. Steps taken to bring a difference to climate change(small steps).
+7. links for websites selling environmental friendly products.
+8. logout
